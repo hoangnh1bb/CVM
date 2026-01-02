@@ -1,0 +1,322 @@
+{
+  "en": {
+    "nav": {
+      "about": "About",
+      "values": "Values", 
+      "mission": "Mission",
+      "vision": "Vision",
+      "roadmap": "Roadmap",
+      "review": "Review"
+    },
+    "hero": {
+      "name": "Nguyễn Huy Hoàng",
+      "role": "Developer @ Bravebits / PageFly",
+      "tagline": "Problem-to-Solution Builder (Value-first, Problem-first)",
+      "cta": {
+        "roadmap": "View Roadmap",
+        "pdf": "Download PDF",
+        "contact": "Contact"
+      }
+    },
+    "about": {
+      "title": "About",
+      "point1": "Middle developer at Bravebits/PageFly (~1.5 years), familiar with the product and wanting to develop towards creating value through technology",
+      "point2": "Value-driven approach: Customer/User value, Team value, Business value",
+      "point3": "Focus on being a 'Problem-to-Solution Builder' rather than a deep tech specialist",
+      "point4": "Passionate about finding real problems and creating 'just enough' technology solutions",
+      "point5": "Believer in clarity, reliability, and practical solutions that deliver measurable impact"
+    },
+    "values": {
+      "title": "Core Values",
+      "subtitle": "The standards I work by - naturally aligned with Bravebits culture: THẬT – THẲNG – THỬ – THƯƠNG – THẤU",
+      "practice": "How I practice it:",
+      "value1": {
+        "title": "Value-first",
+        "meaning": "Real value is priority #1. I prioritize solving real pain points over shipping just to meet deadlines.",
+        "practice1": "Real value = measurable (feedback/metrics) or clear pain reduction",
+        "practice2": "Focus on solving actual pain points rather than shipping for the sake of it",
+        "practice3": "Always ask: does this create measurable value for users/team?"
+      },
+      "value2": {
+        "title": "Clarity & Straight talk",
+        "meaning": "Not clear → I ask. Don't understand → I say 'I don't understand yet'.",
+        "practice1": "I work best when problems, scope, and success metrics are clearly defined from the start",
+        "practice2": "Ask questions when requirements are unclear",
+        "practice3": "Communicate directly and honestly about what I know and don't know"
+      },
+      "value3": {
+        "title": "Reliability",
+        "meaning": "When I take on work, I see it through: do it right, rollout safely, minimize repeated bugs.",
+        "practice1": "I want to be someone the team can trust when assigning work",
+        "practice2": "Follow through on commitments consistently",
+        "practice3": "Implement proper testing and safe rollout procedures"
+      },
+      "value4": {
+        "title": "Smart experimenting",
+        "meaning": "I try new technology when it helps create value, not because of trends.",
+        "practice1": "I prioritize 'small bets': try small → measure → learn → expand",
+        "practice2": "Experiment with purpose, not just because something is trendy",
+        "practice3": "Focus on technology that solves real problems"
+      },
+      "value5": {
+        "title": "Respect & Team impact",
+        "meaning": "I respect teammates, communicate kindly, and try to make working with me easier.",
+        "practice1": "Make collaboration clearer and more efficient",
+        "practice2": "Help reduce friction in team workflows",
+        "practice3": "Share knowledge and learnings to multiply team impact"
+      }
+    },
+    "mission": {
+      "title": "Mission",
+      "statement": "Find the right problems and create 'just enough' technology solutions to bring real value to users, teammates, and organizations.",
+      "principle1": "\"Right problem\" > \"right technology\"",
+      "principle2": "\"Just enough solution\" > \"over-engineering\"",
+      "principle3": "\"Real value\" = measurable (feedback/metrics) or clear pain reduction"
+    },
+    "vision": {
+      "title": "Vision (2-3 years)",
+      "description": "I want to become a trusted 'Problem-to-Solution Builder': When the team faces complex problems (user pain, workflow, quality, performance), I can clarify the essence, propose reasonable directions, and work with the team to ship simple – effective – sustainable solutions.",
+      "success": "Success Looks Like:",
+      "metric1": "Clarify problems quickly and accurately",
+      "metric2": "Propose 'just enough' but solid solutions (engineering judgment)",
+      "metric3": "Use new technology as 'leverage' (AI/automation/tooling)",
+      "metric4": "Work better cross-team (PM/support/design/dev)",
+      "metric5": "Not aiming to become a 'deep tech expert', but skilled at using technology (including new tech) as leverage to create value"
+    },
+    "roadmap": {
+      "title": "Roadmap",
+      "subtitle": "A clear path - easy to follow, easy to review",
+      "goals": "Goals",
+      "actions": "Actions",
+      "metrics": "Review Metrics",
+      "phase1": {
+        "title": "Phase A: Clarity + Reliability",
+        "duration": "0-3 months",
+        "description": "Become someone who works clearly and reliably within my assigned domain",
+        "goal1": "Become a trustworthy person in the team within my domain",
+        "goal2": "Start making an impact with 1-2 useful improvements",
+        "action1": "Before each important task: write a short format - Pain → Hypothesis → Solution (MVP) → Success metric → Risk",
+        "action2": "After each release: record 1 lesson learned (short) + bugs/risks if any",
+        "action3": "1 improvement that helps the team (script/tool/doc/checklist)",
+        "action4": "1 improvement that helps users (flow/steps/repeated bugs)",
+        "action5": "Build personal checklist for task execution",
+        "metric1": "You don't just 'code', but also 'solve' and 'communicate clearly'",
+        "metric2": "Deliverables that reduce team and user pain",
+        "metric3": "Clear documentation of lessons learned"
+      },
+      "phase2": {
+        "title": "Phase B: From Task Executor → Solution Proposer",
+        "duration": "3-6 months", 
+        "description": "Start proactively identifying problems and providing solution options",
+        "goal1": "Proactively detect problems and propose solutions",
+        "goal2": "Complete 1 signature project with clear impact",
+        "action1": "Read signals from reality: support tickets/feedback/basic analytics",
+        "action2": "Propose 2-3 options (clear trade-offs): fast/accurate/low risk",
+        "action3": "Signature Project: choose 1 project (4-8 weeks scope) with measurable before/after",
+        "action4": "Build skills in discovery, solution design, and safe delivery",
+        "action5": "Practice 'selling solutions' civilly with format: Pain → Proposed solution → Cost/Benefit → Risks & mitigation → Metric & timeline",
+        "metric1": "Become someone who gets asked for opinions, not just assigned tasks",
+        "metric2": "Successfully deliver signature project with measurable impact",
+        "metric3": "Demonstrate ability to propose well-reasoned solutions"
+      },
+      "phase3": {
+        "title": "Phase C: Value Builder with Voice",
+        "duration": "6-12+ months",
+        "description": "Stand at the intersection of user–team–tech: understand problems, use new technology reasonably, create consistent impact",
+        "goal1": "Have 2-3 cases proving real value creation; new technology used at the right time and place",
+        "goal2": "Expand value scope and start light mentoring",
+        "action1": "Contribute cross-team (dev ↔ product ↔ support) through clarity & solutions",
+        "action2": "Start light mentoring: share playbooks, checklists, lessons",
+        "action3": "New technology: use as 'leverage', not as 'destination' - Applied Tech approach",
+        "action4": "AI/automation: use to reduce operations, speed up, reduce errors, improve content/decision quality",
+        "action5": "Tooling: speed up team (lint, tests, release safety, monitoring...)",
+        "metric1": "Have 'internal portfolio' — 2-3 cases proving real value creation",
+        "metric2": "Reduce rework/repeated bugs in owned domain",
+        "metric3": "Have 1 playbook/checklist to share with team (to multiply value)"
+      }
+    },
+    "review": {
+      "title": "Review System",
+      "subtitle": "Simple but effective system to stay on track",
+      "weekly": "Weekly",
+      "monthly": "Monthly", 
+      "quarterly": "Quarterly",
+      "weekly_duration": "15 minutes",
+      "monthly_duration": "45 minutes",
+      "quarterly_duration": "90 minutes",
+      "weekly_q1": "What value did I create for users/team this week?",
+      "weekly_q2": "What did I learn (1 thing)?",
+      "weekly_q3": "Where am I stuck and who do I need support from?",
+      "monthly_q1": "Rate 1-5 points: Clarity (write/speak clearly), Ownership (proactive), Impact (measurable), Reliability (few bugs/little rework), Collaboration (help team easier)",
+      "monthly_q2": "What were the 3 most impactful things I did?",
+      "monthly_q3": "What did I do most 'right for my career direction'?",
+      "quarterly_q1": "Does the roadmap need adjustment?",
+      "quarterly_q2": "Personal metrics: Impact notes, Rework rate, Bug repeat, Time-to-clarity, Cross-team trust, Learning ROI",
+      "quarterly_q3": "North Star reminder: I don't need to prove deep tech. I need to prove I create real value."
+    },
+    "footer": {
+      "built": "Built with Next.js, TypeScript, and Tailwind CSS",
+      "rights": "All rights reserved."
+    }
+  },
+  "vi": {
+    "nav": {
+      "about": "Giới thiệu",
+      "values": "Giá trị",
+      "mission": "Sứ mệnh",
+      "vision": "Tầm nhìn",
+      "roadmap": "Lộ trình",
+      "review": "Đánh giá"
+    },
+    "hero": {
+      "name": "Nguyễn Huy Hoàng",
+      "role": "Developer @ Bravebits / PageFly",
+      "tagline": "Problem-to-Solution Builder (Giá trị trước, Vấn đề trước)",
+      "cta": {
+        "roadmap": "Xem Lộ trình",
+        "pdf": "Tải PDF",
+        "contact": "Liên hệ"
+      }
+    },
+    "about": {
+      "title": "Giới thiệu",
+      "point1": "Middle developer tại Bravebits/PageFly (~1.5 năm), đã quen với sản phẩm và muốn phát triển theo hướng tạo giá trị bằng công nghệ",
+      "point2": "Theo đuổi giá trị: Customer/User value, Team value, Business value",
+      "point3": "Tập trung trở thành 'Problem-to-Solution Builder' thay vì chuyên gia deep tech",
+      "point4": "Đam mê tìm đúng vấn đề và tạo ra giải pháp công nghệ 'vừa đủ'",
+      "point5": "Tin tưởng vào sự rõ ràng, đáng tin cậy và giải pháp thực tế mang lại tác động có thể đo lường"
+    },
+    "values": {
+      "title": "Giá trị cốt lõi",
+      "subtitle": "Tôi làm việc theo 'chuẩn' nào? - hợp tinh thần văn hoá Bravebits: THẬT – THẲNG – THỬ – THƯƠNG – THẤU",
+      "practice": "Cách tôi thực hành:",
+      "value1": {
+        "title": "Value-first (Giá trị thật là ưu tiên số 1)",
+        "meaning": "Tôi ưu tiên giải quyết pain point thật hơn là ship cho đủ.",
+        "practice1": "Giá trị thật = đo được (feedback/metrics) hoặc giảm đau rõ ràng",
+        "practice2": "Tập trung giải quyết những pain point thực sự thay vì ship cho đủ",
+        "practice3": "Luôn hỏi: điều này có tạo giá trị có thể đo lường cho user/team không?"
+      },
+      "value2": {
+        "title": "Clarity & Straight talk (Rõ ràng và thẳng thắn)",
+        "meaning": "Không rõ → tôi hỏi. Không hiểu → tôi nói 'chưa hiểu'.",
+        "practice1": "Tôi làm việc tốt nhất khi vấn đề, scope, success metric được nói rõ từ đầu",
+        "practice2": "Đặt câu hỏi khi yêu cầu chưa rõ ràng",
+        "practice3": "Giao tiếp thẳng thắn và trung thực về những gì tôi biết và chưa biết"
+      },
+      "value3": {
+        "title": "Reliability (Đáng tin)",
+        "meaning": "Nhận việc là theo đến cùng: làm chắc, rollout an toàn, hạn chế bug lặp.",
+        "practice1": "Tôi muốn là người mà team có thể yên tâm khi giao việc",
+        "practice2": "Thực hiện cam kết một cách nhất quán",
+        "practice3": "Triển khai testing đúng cách và quy trình rollout an toàn"
+      },
+      "value4": {
+        "title": "Smart experimenting (Thử nghiệm có suy nghĩ)",
+        "meaning": "Tôi thử công nghệ mới khi nó giúp tạo value, không thử vì trend.",
+        "practice1": "Tôi ưu tiên 'small bet': thử nhỏ → đo → học → mở rộng",
+        "practice2": "Thử nghiệm có mục đích, không chỉ vì cái gì đó đang hot",
+        "practice3": "Tập trung vào công nghệ giải quyết vấn đề thực tế"
+      },
+      "value5": {
+        "title": "Respect & Team impact (Tử tế và làm cho team nhẹ hơn)",
+        "meaning": "Tôi tôn trọng đồng đội, giao tiếp tử tế, và cố gắng để người khác làm việc với tôi thấy dễ hơn.",
+        "practice1": "Làm cho việc hợp tác rõ ràng và hiệu quả hơn",
+        "practice2": "Giúp giảm ma sát trong quy trình làm việc của team",
+        "practice3": "Chia sẻ kiến thức và bài học để nhân lên tác động của team"
+      }
+    },
+    "mission": {
+      "title": "Sứ mệnh",
+      "statement": "Tìm đúng vấn đề và tạo ra giải pháp công nghệ 'vừa đủ' để mang lại giá trị thật cho người dùng, đồng đội và tổ chức.",
+      "principle1": "\"Đúng vấn đề\" > \"đúng công nghệ\"",
+      "principle2": "\"Giải pháp vừa đủ\" > \"over-engineering\"",
+      "principle3": "\"Giá trị thật\" = đo được (feedback/metrics) hoặc giảm đau rõ ràng"
+    },
+    "vision": {
+      "title": "Tầm nhìn (2-3 năm)",
+      "description": "Tôi muốn trở thành một 'Problem-to-Solution Builder' được tin cậy: Khi đội ngũ gặp vấn đề phức tạp (user pain, workflow, quality, performance), tôi có thể làm rõ bản chất, đề xuất hướng đi hợp lý, và cùng team ship giải pháp đơn giản – hiệu quả – bền vững.",
+      "success": "Tôi sẽ mạnh lên ở:",
+      "metric1": "Làm rõ vấn đề nhanh và đúng (clarity)",
+      "metric2": "Giải pháp vừa đủ nhưng chắc (engineering judgment)",
+      "metric3": "Dùng công nghệ mới như 'đòn bẩy' (AI/automation/tooling)",
+      "metric4": "Làm việc cross-team tốt hơn (PM/support/design/dev)",
+      "metric5": "Tôi không đặt mục tiêu trở thành 'chuyên gia deep tech', nhưng muốn giỏi ở việc dùng công nghệ (kể cả công nghệ mới) như đòn bẩy tạo value"
+    },
+    "roadmap": {
+      "title": "Lộ trình",
+      "subtitle": "Cách tôi đi – dễ follow, dễ review",
+      "goals": "Mục tiêu",
+      "actions": "Thực hành",
+      "metrics": "Kết quả kỳ vọng",
+      "phase1": {
+        "title": "Giai đoạn A: Clarity + Reliability",
+        "duration": "0-3 tháng",
+        "description": "Trở thành người làm việc rõ ràng, đáng tin trong phạm vi domain mình phụ trách",
+        "goal1": "Thành người 'đáng tin' trong team + bắt đầu tạo dấu ấn bằng 1–2 cải tiến có ích",
+        "goal2": "Nắm chắc 1–2 domain đang làm (flow, codebase, rủi ro)",
+        "action1": "Trước mỗi việc quan trọng: viết 1 đoạn ngắn theo format Pain → Hypothesis → Solution (MVP) → Success metric → Risk",
+        "action2": "Sau mỗi release: ghi lại 1 bài học (ngắn) + bug/rủi ro nếu có",
+        "action3": "1 cải tiến giúp team đỡ đau (script/tool/doc/checklist)",
+        "action4": "1 cải tiến giúp user đỡ đau (flow/bước thao tác/bug lặp)",
+        "action5": "Có checklist riêng khi làm task: Hiểu bối cảnh → xác định user pain → giải pháp tối thiểu → test → rollout an toàn",
+        "metric1": "Bạn không chỉ 'code được', mà còn 'giải được' và 'nói được cho rõ'",
+        "metric2": "Deliverables giúp team và user đỡ đau",
+        "metric3": "Ghi chép rõ ràng các bài học đã học"
+      },
+      "phase2": {
+        "title": "Giai đoạn B: Từ người làm task → người đề xuất giải pháp",
+        "duration": "3-6 tháng",
+        "description": "Bắt đầu chủ động phát hiện vấn đề và đưa option giải quyết",
+        "goal1": "Chủ động phát hiện vấn đề, đề xuất hướng đi, và ship giải pháp vừa tầm",
+        "goal2": "Hoàn thành 1 Signature Project có tác động rõ ràng",
+        "action1": "Đọc tín hiệu từ thực tế: support tickets/feedback/analytics cơ bản",
+        "action2": "Đề xuất 2–3 phương án (trade-off rõ): nhanh/chuẩn/đỡ rủi ro",
+        "action3": "Signature Project: chọn 1 dự án (4–8 tuần) có đo được trước/sau",
+        "action4": "Nâng cấp kỹ năng: Discovery nhẹ, Solution design, Delivery craft",
+        "action5": "'Bán giải pháp' theo cách văn minh: Pain → Proposed solution → Cost/Benefit → Risks & mitigation → Metric & timeline",
+        "metric1": "Bạn trở thành người được hỏi ý kiến, không chỉ được giao việc",
+        "metric2": "Giao thành công signature project với tác động có thể đo lường",
+        "metric3": "Chứng minh khả năng đề xuất giải pháp có lý do"
+      },
+      "phase3": {
+        "title": "Giai đoạn C: Value Builder có tiếng nói",
+        "duration": "6-12+ tháng",
+        "description": "Bạn có thể 'đứng giữa' user–team–tech: hiểu vấn đề, dùng công nghệ mới hợp lý, tạo impact đều",
+        "goal1": "Có 2–3 case chứng minh mình tạo value thật; công nghệ mới được dùng đúng lúc, đúng chỗ",
+        "goal2": "Mở rộng phạm vi giá trị và bắt đầu mentoring nhẹ",
+        "action1": "Đóng góp được ở cross-team (dev ↔ product ↔ support) bằng clarity & giải pháp",
+        "action2": "Bắt đầu mentoring nhẹ: chia sẻ playbook, checklist, bài học",
+        "action3": "Công nghệ mới: dùng như 'đòn bẩy', không phải 'đích đến' - theo hướng Applied Tech",
+        "action4": "AI/automation: dùng để giảm thao tác, tăng tốc, giảm lỗi, tăng chất lượng nội dung/decision",
+        "action5": "Tooling: tăng tốc team (lint, tests, release safety, monitoring…)",
+        "metric1": "Bạn có 'portfolio nội bộ' — 2–3 case chứng minh bạn tạo giá trị thật",
+        "metric2": "Giảm rework/giảm bug lặp ở domain mình phụ trách",
+        "metric3": "Có 1 playbook/checklist chia sẻ lại cho team (để giá trị nhân lên)"
+      }
+    },
+    "review": {
+      "title": "Cơ chế Review",
+      "subtitle": "Hệ thống đơn giản nhưng hiệu quả để luôn đi đúng",
+      "weekly": "Hàng tuần",
+      "monthly": "Hàng tháng",
+      "quarterly": "Hàng quý",
+      "weekly_duration": "15 phút",
+      "monthly_duration": "45 phút",
+      "quarterly_duration": "90 phút",
+      "weekly_q1": "Tuần này tôi tạo giá trị gì cho user/team?",
+      "weekly_q2": "Tôi học được gì (1 điều)?",
+      "weekly_q3": "Tôi đang mắc kẹt ở đâu và cần ai hỗ trợ?",
+      "monthly_q1": "Chấm 1–5 điểm: Clarity (viết/nói rõ), Ownership (chủ động), Impact (đo được), Reliability (ít bug/ít rework), Collaboration (giúp team dễ hơn)",
+      "monthly_q2": "3 việc tạo impact nhất?",
+      "monthly_q3": "1 điều tôi làm 'đúng hướng nghề' nhất?",
+      "quarterly_q1": "Roadmap có cần chỉnh không?",
+      "quarterly_q2": "Bộ chỉ số cá nhân: Impact notes, Rework rate, Bug repeat, Time-to-clarity, Cross-team trust, Learning ROI",
+      "quarterly_q3": "Câu 'kim chỉ nam': Tôi không cần prove mình deep tech. Tôi cần prove mình tạo giá trị thật."
+    },
+    "footer": {
+      "built": "Được xây dựng với Next.js, TypeScript và Tailwind CSS",
+      "rights": "Bảo lưu mọi quyền."
+    }
+  }
+}
