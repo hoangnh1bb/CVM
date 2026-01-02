@@ -27,7 +27,7 @@ export default function Mission() {
             className="absolute -top-4 -left-4 text-accent-200 dark:text-accent-800" 
           />
           <blockquote className="text-2xl lg:text-3xl font-medium text-gray-900 dark:text-white leading-relaxed italic bg-white dark:bg-gray-800 rounded-lg p-8 lg:p-12 shadow-sm border border-gray-200 dark:border-gray-700 relative">
-            "{t('mission.statement')}"
+            &ldquo;{t('mission.statement')}&rdquo;
           </blockquote>
         </div>
 
